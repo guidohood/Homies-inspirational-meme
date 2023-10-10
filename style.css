@@ -13,6 +13,9 @@ div#image {
     width: 50%;
     margin-left: 25%;
 }
+div#counter {
+    width: 100%;
+}
 img {
     border: solid 5px white;
     width: 100%;
