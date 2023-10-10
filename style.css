@@ -18,6 +18,9 @@ h1 {
 .uppercase {
     text-transform: uppercase;
 }
+.url {
+    color:rgb(167, 249, 249);
+}
 p#scripture-text {
     font-size: 1.5rem;
 }
