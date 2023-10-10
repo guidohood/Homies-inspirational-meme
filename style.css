@@ -17,3 +17,6 @@ h1 {
 .uppercase {
     text-transform: uppercase;
 }
+p#scripture-text {
+    font-size: 1.5rem;
+}
