@@ -1,6 +1,7 @@
 html {
     background-color: black;
     color: white;
+    margin: 5rem auto 5rem;
 }
 div {
     width: 50%;
